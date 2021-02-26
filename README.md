@@ -5,7 +5,7 @@
 
 An implementation of the *Reversi/Othello* game, written in *Java/Swing* and featuring AI opponent.
 
-Modifed by Brian Howard to demonstrate typical project structure (Maven conventions).
+Modifed by Brian Howard to demonstrate typical project structure (Maven conventions). Original at https://github.com/asenovm/Reversi
 
 ## <span style="text-align: center;">AI opponent</span> ##
 
