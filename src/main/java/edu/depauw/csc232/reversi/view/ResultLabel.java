@@ -28,7 +28,7 @@ public class ResultLabel extends JLabel {
 	/**
 	 * {@value}
 	 */
-	private static final String TEXT_RESULT = " result is: ";
+	private static final String TEXT_RESULT = " disc count is: ";
 
 	/**
 	 * {@value}
